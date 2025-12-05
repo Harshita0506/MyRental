@@ -67,12 +67,3 @@ A centralized application with tailored features for both **Landlords** and **Re
 
 
 ---
-
-## 👥 Team 404 Found
-
-- shubham Patel
-- Praveer 
-
-Project submitted for **CodeClash 2.0**
-
----
